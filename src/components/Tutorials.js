@@ -53,9 +53,9 @@ const Tutorials = () => {
           <Button type="submit">Signup for our daily insider</Button>
         </Form>
         <ul>
-          <li><a >Dev@Deakin22</a></li>
-          <li><a >Privacy Policy</a></li>
-          <li><a >Code of Conduct</a></li>
+          <li><a href="https://www.deakin.edu.au/">Dev@Deakin22</a></li>
+          <li><a href="https://www.deakin.edu.au/" >Privacy Policy</a></li>
+          <li><a href="https://www.deakin.edu.au/" >Code of Conduct</a></li>
         </ul>
       </div>
     </div>

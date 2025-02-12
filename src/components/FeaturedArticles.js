@@ -1,5 +1,4 @@
 import React from 'react';
-import { Card } from 'semantic-ui-react';
 import './App.css'; // Import the CSS file
 
 const FeaturedArticles = () => {

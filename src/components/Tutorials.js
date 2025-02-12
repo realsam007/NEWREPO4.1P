@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Card, Button, Form } from 'semantic-ui-react';
+import { Button, Form } from 'semantic-ui-react';
 import './App.css'; // Import the CSS file
 
 const Tutorials = () => {
@@ -53,9 +53,9 @@ const Tutorials = () => {
           <Button type="submit">Signup for our daily insider</Button>
         </Form>
         <ul>
-          <li><a href="#">Dev@Deakin22</a></li>
-          <li><a href="#">Privacy Policy</a></li>
-          <li><a href="#">Code of Conduct</a></li>
+          <li><a >Dev@Deakin22</a></li>
+          <li><a >Privacy Policy</a></li>
+          <li><a >Code of Conduct</a></li>
         </ul>
       </div>
     </div>
